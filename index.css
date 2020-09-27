@@ -1,0 +1,28 @@
+div{ 
+    width: 600px;  
+    margin: 0 auto; 
+    border: 1px solid black;
+    text-align: center;
+    background-color: bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-color: beige;
+}   
+ 
+.IMCvermelho{
+    color: red;  
+}
+
+.IMClaranja{
+    color: orange;  
+}
+
+.IMCazul{
+    color: cornflowerblue;   
+}
+
+.IMCverde{
+    color: green;  
+}
